@@ -1,4 +1,4 @@
-# # Movie Recommendation System
+# Movie Recommendation System
 
 ## Overview
 This project is a content-based movie recommendation system that suggests movies similar to the one selected by the user. It leverages natural language processing and machine learning techniques to analyze and process movie data.
